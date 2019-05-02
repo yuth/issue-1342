@@ -1,0 +1,14 @@
+{
+    "kk": {
+        "awscloudformation": {
+            "AuthRoleName": "issue-1342-kk-20190502125418-authRole",
+            "UnauthRoleArn": "arn:aws:iam::744586199449:role/issue-1342-kk-20190502125418-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::744586199449:role/issue-1342-kk-20190502125418-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "issue-1342-kk-20190502125418-deployment",
+            "UnauthRoleName": "issue-1342-kk-20190502125418-unauthRole",
+            "StackName": "issue-1342-kk-20190502125418",
+            "StackId": "arn:aws:cloudformation:us-east-1:744586199449:stack/issue-1342-kk-20190502125418/13e50360-6d14-11e9-84ac-0a2e8057061e"
+        }
+    }
+}
